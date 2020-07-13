@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594641932 source:d:\c_repos\strings\converting_uppercase_lowercase\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+
