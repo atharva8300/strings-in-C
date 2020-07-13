@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594643949 source:d:\c_repos\strings\comparing_2_strings\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
