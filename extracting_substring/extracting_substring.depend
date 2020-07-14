@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594696252 source:d:\c_repos\strings\extracting_substring\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
