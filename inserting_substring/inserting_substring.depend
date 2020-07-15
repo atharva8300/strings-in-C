@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594809788 source:d:\c_repos\strings\inserting_substring\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
